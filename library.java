@@ -4,7 +4,7 @@ import java.time.*;
 public class library {
     static Scanner sc=new Scanner(System.in);
     static int h,id=1000,jj,usid=100,poo=0;
-    static String h1="",kas="";
+    static String h1="";
     static ArrayList<String>l=new ArrayList<>();//username
     static ArrayList<String>l1=new ArrayList<>();//password
     //---------------------------------------------------------//
